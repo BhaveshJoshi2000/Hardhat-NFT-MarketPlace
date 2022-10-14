@@ -89,6 +89,13 @@ yarn hardhat deploy --network goerli
 ```
 
 
+### Checkout My Repo for Frontend of this  Project
+
+<a href="https://github.com/BhaveshJoshi2000/Nextjs-Moralis-NFT_Marketplace.git">Next.js Frontend project using Moralis</a>
+
+<a href="https://github.com/BhaveshJoshi2000/nextjs-graph-nft-marketplace.git"> Next.js Frontend project using GraphQL</a>
+
+
 # Thank you!
 
 
